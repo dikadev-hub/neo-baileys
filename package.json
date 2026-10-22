@@ -1,0 +1,15 @@
+{
+  "name": "neo-baileys",
+  "version": "1.0.0",
+  "description": "Neo Chat Bot Bridge - Convert JSON to Interactive Chat",
+  "main": "index.js",
+  "bin": {
+    "neo-baileys": "./cli.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "chalk": "^4.1.2",
+    "inquirer": "^8.2.6",
+    "chokidar": "^3.5.3"
+  }
+}
