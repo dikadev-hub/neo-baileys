@@ -1,0 +1,13 @@
+{
+  "trigger": "/menu",
+  "toId": "GANTI_DENGAN_ID",
+  "text": "Pilih menu:",
+  "interactive": {
+    "kind": "buttons",
+    "text": "Silakan pilih:",
+    "buttons": [
+      { "type": "reply", "id": "btn1", "text": "Katalog", "icon": "fa-store" },
+      { "type": "cta", "text": "Admin", "url": "https://wa.me/628xxx", "icon": "fa-whatsapp" }
+    ]
+  }
+}
